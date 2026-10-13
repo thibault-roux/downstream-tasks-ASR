@@ -1,0 +1,18 @@
+LibriSQA system scores
+============================================================
+
+reference: 0.728000 (72.80%)
+Correct: 728/1000
+
+googlesr: 0.642132 (64.21%)
+Correct: 506/788
+
+crdnn-rnnlm: 0.686869 (68.69%)
+Correct: 204/297
+
+wav2vec-ft-asr: 0.720217 (72.02%)
+Correct: 399/554
+
+whisper-base: 0.653740 (65.37%)
+Correct: 236/361
+

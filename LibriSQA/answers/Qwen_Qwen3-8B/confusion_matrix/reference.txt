@@ -1,0 +1,10 @@
+System: reference
+
+Rows = ground truth
+Columns = prediction
+
+                     A         B         C         D
+           A       232        17        11        27
+           B        25       188        37        19
+           C        68        12       196        27
+           D         4         7         0       112

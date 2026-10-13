@@ -1,0 +1,51 @@
+LibriSQA human transcript-selection analysis
+======================================================================
+
+Duration is accumulated per human comparison (hat).
+Therefore, if an audio sample has two hat entries, its duration can contribute twice.
+
+Total comparison duration: 5078.406 seconds
+Total comparison duration: 1.411 hours
+
+Both hypotheses correct
+----------------------------------------------------------------------
+Count:      562
+Duration:   3072.540 seconds
+Duration:   0.853 hours
+Percentage: 60.50%
+
+Both hypotheses incorrect
+----------------------------------------------------------------------
+Count:      195
+Duration:   954.970 seconds
+Duration:   0.265 hours
+Percentage: 18.80%
+
+Humans chose the right hypothesis
+----------------------------------------------------------------------
+Count:      150
+Duration:   703.915 seconds
+Duration:   0.196 hours
+Percentage: 13.86%
+
+Humans chose the wrong hypothesis
+----------------------------------------------------------------------
+Count:      71
+Duration:   346.980 seconds
+Duration:   0.096 hours
+Percentage: 6.83%
+
+Human vote tie
+----------------------------------------------------------------------
+Count:      0
+Duration:   0.000 seconds
+Duration:   0.000 hours
+Percentage: 0.00%
+
+Human selection effect
+----------------------------------------------------------------------
+Humans chose right duration: 703.915 seconds
+Humans chose wrong duration: 346.980 seconds
+Net human gain: 356.935 seconds
+Net human gain: 0.099 hours
+Net human gain percentage: 7.03%

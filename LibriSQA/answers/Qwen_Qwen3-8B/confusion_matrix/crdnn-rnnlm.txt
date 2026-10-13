@@ -1,0 +1,10 @@
+System: crdnn-rnnlm
+
+Rows = ground truth
+Columns = prediction
+
+                     A         B         C         D
+           A        54        15        13        10
+           B         5        56        10         4
+           C        19         0        61         9
+           D         1         0         0        33

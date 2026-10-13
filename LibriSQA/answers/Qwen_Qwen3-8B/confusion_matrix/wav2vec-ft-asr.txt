@@ -1,0 +1,10 @@
+System: wav2vec-ft-asr
+
+Rows = ground truth
+Columns = prediction
+
+                     A         B         C         D
+           A       119        12         3        24
+           B        15        99        24        10
+           C        27         1       110        21
+           D         8         0         0        71

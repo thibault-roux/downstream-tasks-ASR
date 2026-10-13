@@ -1,0 +1,10 @@
+System: whisper-base
+
+Rows = ground truth
+Columns = prediction
+
+                     A         B         C         D
+           A        63        12         6        19
+           B         9        72         7         3
+           C        23         7        64        25
+           D         1         1         0        37

@@ -1,0 +1,764 @@
+[
+  {
+    "id": "0",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "1",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "2",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "3",
+    "prediction": "D",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "4",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "5",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "6",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "7",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "8",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "9",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "10",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "11",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "12",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "13",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "14",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "15",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "16",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "17",
+    "prediction": "A",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "18",
+    "prediction": "",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "19",
+    "prediction": "A",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "20",
+    "prediction": "D",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "21",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "22",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "23",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "24",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "25",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "26",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "27",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "28",
+    "prediction": "A",
+    "ground_truth": "D",
+    "correct": false
+  },
+  {
+    "id": "29",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "30",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "31",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "32",
+    "prediction": "B",
+    "ground_truth": "A",
+    "correct": false
+  },
+  {
+    "id": "33",
+    "prediction": "D",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "34",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "35",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "36",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "37",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "38",
+    "prediction": "B",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "39",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "40",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "41",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "42",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "43",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "44",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "45",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "46",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "47",
+    "prediction": "D",
+    "ground_truth": "A",
+    "correct": false
+  },
+  {
+    "id": "48",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "49",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "50",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "51",
+    "prediction": "D",
+    "ground_truth": "A",
+    "correct": false
+  },
+  {
+    "id": "52",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "53",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "54",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "55",
+    "prediction": "B",
+    "ground_truth": "A",
+    "correct": false
+  },
+  {
+    "id": "56",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "57",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "58",
+    "prediction": "D",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "59",
+    "prediction": "A",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "60",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "61",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "62",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "63",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "64",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "65",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "66",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "67",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "68",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "69",
+    "prediction": "A",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "70",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "71",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "72",
+    "prediction": "D",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "73",
+    "prediction": "C",
+    "ground_truth": "A",
+    "correct": false
+  },
+  {
+    "id": "74",
+    "prediction": "D",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "75",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "76",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "77",
+    "prediction": "B",
+    "ground_truth": "A",
+    "correct": false
+  },
+  {
+    "id": "78",
+    "prediction": "C",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "79",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "80",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "81",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "82",
+    "prediction": "A",
+    "ground_truth": "D",
+    "correct": false
+  },
+  {
+    "id": "83",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "84",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "85",
+    "prediction": "D",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "86",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "87",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "88",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "89",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "90",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "91",
+    "prediction": "D",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "92",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "93",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "94",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "95",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "96",
+    "prediction": "",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "97",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "98",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "99",
+    "prediction": "C",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "100",
+    "prediction": "B",
+    "ground_truth": "A",
+    "correct": false
+  },
+  {
+    "id": "101",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "102",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "103",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "104",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "105",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "106",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "107",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "108",
+    "prediction": "D",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "109",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "110",
+    "prediction": "C",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "111",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "112",
+    "prediction": "A",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "113",
+    "prediction": "B",
+    "ground_truth": "B",
+    "correct": true
+  },
+  {
+    "id": "114",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "115",
+    "prediction": "D",
+    "ground_truth": "D",
+    "correct": true
+  },
+  {
+    "id": "116",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "117",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "118",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  },
+  {
+    "id": "119",
+    "prediction": "D",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "120",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "121",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "122",
+    "prediction": "C",
+    "ground_truth": "B",
+    "correct": false
+  },
+  {
+    "id": "123",
+    "prediction": "C",
+    "ground_truth": "C",
+    "correct": true
+  },
+  {
+    "id": "124",
+    "prediction": "B",
+    "ground_truth": "A",
+    "correct": false
+  },
+  {
+    "id": "125",
+    "prediction": "A",
+    "ground_truth": "A",
+    "correct": true
+  },
+  {
+    "id": "126",
+    "prediction": "A",
+    "ground_truth": "C",
+    "correct": false
+  }
+]

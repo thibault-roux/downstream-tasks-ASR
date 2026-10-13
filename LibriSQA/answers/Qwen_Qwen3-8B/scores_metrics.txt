@@ -1,0 +1,47 @@
+LibriSQA metric evaluation
+LLM: Qwen/Qwen3-8B
+Input: answers/Qwen_Qwen3-8B/LibriSQA-Results-Metrics.json
+
+============================================================
+
+Metric: wer
+------------------------------------------------------------
+Total evaluated:       1000
+Metric correct:        727
+Metric accuracy:       72.70%
+
+H1 correct:            682
+H2 correct:            663
+Both correct:          562
+Both wrong:            217
+
+Selected H1:           580 (58.00%)
+Selected H2:           420 (42.00%)
+Selected correct:      727
+Selected wrong:        273
+
+Oracle correct:        783
+Oracle accuracy:       78.30%
+
+============================================================
+
+Metric: cer
+------------------------------------------------------------
+Total evaluated:       1000
+Metric correct:        724
+Metric accuracy:       72.40%
+
+H1 correct:            682
+H2 correct:            663
+Both correct:          562
+Both wrong:            217
+
+Selected H1:           535 (53.50%)
+Selected H2:           465 (46.50%)
+Selected correct:      724
+Selected wrong:        276
+
+Oracle correct:        783
+Oracle accuracy:       78.30%
+
+============================================================

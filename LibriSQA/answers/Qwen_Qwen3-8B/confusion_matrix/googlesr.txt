@@ -1,0 +1,10 @@
+System: googlesr
+
+Rows = ground truth
+Columns = prediction
+
+                     A         B         C         D
+           A       127        44         4        41
+           B        30       146        35        13
+           C        45         2       153        39
+           D         6         8         0        80
